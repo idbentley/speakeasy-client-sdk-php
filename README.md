@@ -7,7 +7,7 @@ The SDK relies on [Composer](https://getcomposer.org/) to manage its dependencie
 
 To install the SDK and add it as a dependency to an existing `composer.json` file:
 ```bash
-composer require "speakeasy-api/speakeasy-client-sdk-php"
+composer require "ian-speakeasy/speakeasy-client-sdk-php"
 ```
 <!-- End SDK Installation [installation] -->
 

@@ -33,7 +33,6 @@ class SDKHooks implements Hooks
 
     public function __construct()
     {
-        HookRegistration::initHooks($this);
     }
 
     public function registerSDKInitHook(SDKInitHook $hook): void

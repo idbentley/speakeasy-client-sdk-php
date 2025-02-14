@@ -3,13 +3,13 @@ id: db1bb4da-054f-485f-8c6e-d42db3f1da90
 management:
   docChecksum: 91d0aeea02ab32b58fdf8e9ef49d1b48
   docVersion: 0.4.0
-  speakeasyVersion: 1.490.0
-  generationVersion: 2.512.0
-  releaseVersion: 0.49.0
-  configChecksum: ec6f42eb3470809c89554fccc7852b37
-  repoURL: https://github.com/speakeasy-api/speakeasy-client-sdk-php.git
+  speakeasyVersion: 1.492.0
+  generationVersion: 2.512.4
+  releaseVersion: 0.49.1
+  configChecksum: db0d7856747597a0cfd76bb5521b6a26
+  repoURL: https://github.com/idbentley/speakeasy-client-sdk-php.git
   repoSubDirectory: .
-  installationURL: https://github.com/speakeasy-api/speakeasy-client-sdk-php
+  installationURL: https://github.com/idbentley/speakeasy-client-sdk-php
   published: true
 features:
   php:
