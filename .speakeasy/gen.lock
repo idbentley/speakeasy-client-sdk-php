@@ -3,10 +3,10 @@ id: db1bb4da-054f-485f-8c6e-d42db3f1da90
 management:
   docChecksum: 91d0aeea02ab32b58fdf8e9ef49d1b48
   docVersion: 0.4.0
-  speakeasyVersion: 1.493.2
-  generationVersion: 2.512.4
-  releaseVersion: 0.49.3
-  configChecksum: a88ce1dbc993524a216a6bf60e406284
+  speakeasyVersion: 1.494.0
+  generationVersion: 2.515.0
+  releaseVersion: 0.49.4
+  configChecksum: 1c4388a94bbf2a22f3f3d5c4d07ee9ab
   repoURL: https://github.com/idbentley/speakeasy-client-sdk-php.git
   repoSubDirectory: .
   installationURL: https://github.com/idbentley/speakeasy-client-sdk-php

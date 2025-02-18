@@ -402,9 +402,9 @@ try {
 
 You can override the default server globally using the `setServer(string $serverName)` builder method when initializing the SDK client instance. The selected server will then be used as the default on the operations that use it. This table lists the names associated with the available servers:
 
-| Name   | Server                              |
-| ------ | ----------------------------------- |
-| `prod` | `https://api.prod.speakeasyapi.dev` |
+| Name   | Server                              | Description |
+| ------ | ----------------------------------- | ----------- |
+| `prod` | `https://api.prod.speakeasyapi.dev` |             |
 
 #### Example
 
@@ -418,7 +418,7 @@ use Speakeasy\SpeakeasyClientSDK\Models\Operations;
 use Speakeasy\SpeakeasyClientSDK\Models\Shared;
 
 $sdk = SpeakeasyClientSDK\SDK::builder()
-    ->setServer("prod")
+    ->setServer('prod'
     ->setSecurity(
         new Shared\Security(
             apiKey: '<YOUR_API_KEY_HERE>',
